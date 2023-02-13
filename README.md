@@ -1,7 +1,7 @@
 # About the project
 In this project I made a react game, it simulates the so calles snake 2 game<br/>
 Your target is to increase the length of your snake by feeding it with the randomly placed foods (the yellow field)<br/>
-If you hit the edge of the fild, or the snake bite hime the game is over<br/>
+If you hit the edge of the field, or the snake bite him the game is over<br/>
 You can controll the snake with the appropriate buttons
 
 # Applied technology
